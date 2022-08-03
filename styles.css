@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    background-color: #E4F9F5;  
+}
+    
+.top-container{
+    padding-top: 100px;
+    background-color: #E4F9F5;
+    background-size: 200%;
+}
+.middle-container{
+    background-color: white;
+}
+   
+h1{
+   font-family: 'Sacramento', cursive;
+   font-size: 5.625rem;
+   margin: 50px auto 0 auto;
+   color: #66BFBF;
+   line-height: 1;
+}
+h2{
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+ }
+ h3{
+    font-family: 'Merriweather', serif;
+    color: #11999E;
+ }
+
+
+
+.dp{
+    height: 200px;
+    width: 200px;
+    
+}
+    
+.top-cloud{
+    position: absolute;
+    top: 75px;
+    right: 270px;
+}
+.bottom-cloud{
+    position: absolute;
+    top: 350px;
+    left: 270px;
+}
+.mountain{
+    position: relative;
+    /* top: 360px;
+    left: 450px; */
+    
+}
+a{
+    color: #11999E;
+}
+
+.skill-row{
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    width: 50%;
+    text-align: left;
+}
+.code-image{
+    float: left;
+    width: 25%;
+    margin-right: 30px;
+}
+.chilli-image{
+    float: right;
+    width: 25%;
+    margin-left: 30px;
+}
