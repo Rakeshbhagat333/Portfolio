@@ -107,6 +107,8 @@ margin: 40px auto 15px auto;
     padding: 11px;
     display: block;
     font-family: 'Quicksand', sans-serif;
+    transition: 0.5s;
+
     
 }
 .btn:hover{
